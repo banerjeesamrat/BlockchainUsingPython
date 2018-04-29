@@ -3,7 +3,7 @@ class Blockchain(object):
     def __init__(self):
         # chain is used for the blockchain
         self.chain = []
-        # currenr_transactions is used for transactions
+        # current_transactions is used for transactions
         self.current_transactions = []
 
     def new_block(self):
