@@ -4,6 +4,9 @@
 
 ## This repository is to demonstrate a working Blockchain using Python.
 
+**Website** : labex.io 
+**Author of the Course** : Daniel_Van_Flymen
+
 ---
 
 ## Part1
