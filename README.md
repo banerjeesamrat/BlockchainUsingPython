@@ -18,6 +18,6 @@ Part 1 is creating the most basic working Blockchain.
 
 ## Output of Part1
 
-![Part1Image](https://github.com/banerjeesamrat/BlockchainUsingPython/blob/master/Part1/WorkingCodeImage.png)
+![Part1Image](https://github.com/banerjeesamrat/BlockchainUsingPython/blob/master/Part1-LearningBlockchainByBuildingOne/WorkingCodeImage.png)
 
 ---
